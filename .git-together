@@ -1,0 +1,4 @@
+[git-together]
+	domain = github.com
+[git-together "authors"]
+  jw = "Jesse Walton; jesse.m.walton@gmail.com"
